@@ -1,0 +1,14 @@
+.container{
+  padding: 20px;
+}
+.col-xs-5 {
+    padding: 10px;
+}
+.border{
+  border: 1px solid black;
+}
+.padding{
+  padding: 10px;
+  font-weight: bold;
+  color: red;
+}
